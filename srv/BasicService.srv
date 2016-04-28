@@ -1,0 +1,9 @@
+string data
+string op
+
+string OP_REVERSE=reverse
+string OP_LEFT_PAD=left_pad
+---
+string result
+
+string RES_NULL=null
