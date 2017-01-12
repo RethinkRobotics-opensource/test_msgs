@@ -15,6 +15,7 @@ add_message_files(
   BaseTypeVariableLengthArray.msg
   ConstantLengthArray.msg
   VariableLengthArray.msg
+  AllTypes.msg
 )
 
 ## Generate services in the 'srv' folder
