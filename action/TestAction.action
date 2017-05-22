@@ -2,12 +2,11 @@ string do_something
 string NO=no
 string YES=yes
 
----
+-------
 int8 done
 int8 NOT_DONE=0
 int8 HALF_DONE=1
 int8 FULLY_DONE=2
-
 ---
 float32 progress
 float32 MAX_PROGRESS=1
