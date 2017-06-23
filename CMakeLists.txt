@@ -24,6 +24,7 @@ add_service_files(
   BasicService.srv
   HeaderService.srv
   TestService.srv
+  NonSpecServiceDivider.srv
 )
 
 ## Generate actions in the 'action' folder
